@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
 </div>
 
-<br>
 <!-- Social midias -->
 
 <div align="left">
