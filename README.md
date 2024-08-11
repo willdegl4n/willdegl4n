@@ -4,7 +4,7 @@
 <!-- <div id="top"></div>
 <img src="https://github.com/dirceuresende/dirceuresende/raw/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />  -->
 <div id="top"></div>
-<img src="https://avatars.githubusercontent.com/u/122640438?v=4" min-width="400px" max-width="400px" width="400px" align="right" margin-top= "5000px" alt="Computador iuriCode" />
+<img src="https://user-images.githubusercontent.com/67348204/235379724-4578a774-4121-4af5-9e5c-019355d3d8df.png" min-width="300px" max-width="300px" width="300px" align="right" margin-top= "500px" alt="Computador iuriCode" />
 
   
 <div align="left">
