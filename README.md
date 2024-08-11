@@ -1,14 +1,30 @@
-<h1 align="center">Ola👋! Eu sou o Will ...</h1>
-<!--  estatisticas -->
+<h1 align="center">Ola👋! Willdeglan aqui...</h1>
+<!-- apresentação -->
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willdegl4n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willdegl4n&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<dl>
+  <dt>Database Administrator </dt>
+  <dd>
+     SQL Server <br>
+     Oracle Jr <br>
+     Training PostgreSql
+  </dd>
+  <dt>Certification</dt>
+  <dd>
+      98-364  <br>
+      DP900  <br>
+      1Z0-1085-23 (OCI)<br>
+      MD101 
+  </dd>
+  <dt>Studying</dt>
+  <dd>
+    Data Engineering with <br>
+    ( •Python | • GitHub | • Excel | • PowerBI | • SSIS ETL | • Databrinck | • MongoDB )
+  </dd>
+</dl>
 
 ##
+
 
 <!-- logos das linguagens e produtos -->
 
@@ -54,3 +70,14 @@
 </div>
 
 ###
+
+<!--  estatisticas -->
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=willdegl4n&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willdegl4n&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+##
