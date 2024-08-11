@@ -1,10 +1,26 @@
 <h1 align="center">Ola👋! Willdeglan aqui... </h1>
 <!-- logos das linguagens e produtos -->
 
-<!-- <div id="top"></div>
-<img src="https://github.com/dirceuresende/dirceuresende/raw/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />  -->
-<div id="top"></div>
-<img src="https://user-images.githubusercontent.com/67348204/235379724-4578a774-4121-4af5-9e5c-019355d3d8df.png" min-width="300px" max-width="300px" width="300px" align="right" margin-top= "500px" alt="Computador iuriCode" />
+ <div id="top"></div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="DataBase" />
+<!--
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="30" alt="d3js logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
+  -->
+  
+###
+
+<!--<div id="top"></div>
+<img src="https://user-images.githubusercontent.com/67348204/235379724-4578a774-4121-4af5-9e5c-019355d3d8df.png" min-width="300px" max-width="300px" width="300px" align="right" margin-top= "500px" alt="Computador iuriCode" />-->
 
   
 <div align="left">
