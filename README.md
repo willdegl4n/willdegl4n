@@ -1,4 +1,4 @@
-<h1 align="center">Ola👋! Willdeglan aqui...
+<h1 align="center">Ola👋! Willdeglan aqui... 
 <!-- logos das linguagens e produtos -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
@@ -22,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
 </div>
 
-
 <!-- Social midias -->
 
 <div align="center">
@@ -40,24 +39,18 @@
 <dl>
   <dt>Database Administrator </dt>
   <dd>
-     SQL Server <br>
-     Oracle Jr <br>
-     Training PostgreSql
-  </dd>
-  <dt>Certification</dt>
-  <dd>
-      98-364  <br>
-      DP900  <br>
-      1Z0-1085-23 (OCI)<br>
-      MD101 
+    SQL Server | Oracle Jr | Training PostgreSql
   </dd>
   <dt>Studying</dt>
   <dd>
     Data Engineering with <br>
-    ( •Python | • GitHub | • Excel | • PowerBI | • SSIS ETL | • Databrinck | • MongoDB )
+    Python | GitHub | Excel | PowerBI | SSIS ETL | Databrinck | MongoDB 
+  </dd>
+  <dt>Certification</dt>
+  <dd>
+      98-364 | DP900 | 1Z0-1085-23 (OCI) | MD101 
   </dd>
 </dl>
-
 
 
 
