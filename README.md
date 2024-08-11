@@ -37,12 +37,12 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@sqldicas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/willdeglan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:willdeglan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willdeglan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/sqldicas" target="_blank"><img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  /> </a>
-  <a href="https://www.willdeglan.com.br"  target="_blank"><img src="https://img.shields.io/static/v1?message=Curriculo&logo=medium&label=&color=12100E&logoColor=green&labelColor=&style=for-the-badge" height="28" alt="medium logo"  /> </a>
+  <a href="https://www.youtube.com/@sqldicas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" target="_blank"></a>
+  <a href="https://instagram.com/willdeglan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" target="_blank"></a>
+  <a href = "mailto:willdeglan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="25" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/willdeglan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" target="_blank"></a> 
+  <a href="https://instagram.com/sqldicas" target="_blank"><img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25"> </a>
+  <a href="https://www.willdeglan.com.br"  target="_blank"><img src="https://img.shields.io/static/v1?message=Curriculo&logo=medium&label=&color=12100E&logoColor=green&labelColor=&style=for-the-badge" height="25"> </a>
 </div>
 
 ##
