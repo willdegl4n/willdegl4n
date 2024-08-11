@@ -1,6 +1,13 @@
-<h1 align="center">Ola👋! Willdeglan aqui... 
+<h1 align="center">Ola👋! Willdeglan aqui... </h1>
 <!-- logos das linguagens e produtos -->
-<div align="center">
+
+<!-- <div id="top"></div>
+<img src="https://github.com/dirceuresende/dirceuresende/raw/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />  -->
+<div id="top"></div>
+<img src="https://avatars.githubusercontent.com/u/122640438?v=4" min-width="400px" max-width="400px" width="400px" align="right" margin-top= "5000px" alt="Computador iuriCode" />
+
+  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
@@ -22,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
 </div>
 
+
 <!-- Social midias -->
 
 <div align="center">
@@ -32,7 +40,7 @@
   <a href="https://instagram.com/sqldicas" target="_blank"><img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25"> </a>
   <a href="https://www.willdeglan.com.br"  target="_blank"><img src="https://img.shields.io/static/v1?message=Curriculo&logo=medium&label=&color=12100E&logoColor=green&labelColor=&style=for-the-badge" height="25"> </a>
 </div>
-</h1>
+
 <!-- apresentação -->
 
 
