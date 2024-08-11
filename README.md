@@ -2,7 +2,7 @@
 <!-- logos das linguagens e produtos -->
 
  <div id="top"></div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="DataBase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="DataBase" />
 <!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
