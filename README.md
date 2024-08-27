@@ -66,7 +66,7 @@
   <dt>Studying</dt>
   <dd>
     Data Engineering with <br>
-    Python | GitHub | Excel | PowerBI | SSIS ETL | Databrinck | MongoDB 
+    Python | GitHub | Excel | PowerBI | SSIS ETL | Databrinck | MongoDB | BigQuery
   </dd>
   <dt>Certification</dt>
   <dd>
