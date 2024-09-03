@@ -1,14 +1,13 @@
 # Helow people!👋 Willdeglan aqui...
-<!-- logos DB grande -->
-<div id="top"></div>
-<img src="https://github.com/user-attachments/assets/3058469f-4ab6-4d30-ab21-3a76a83814f9" min-width="300px" max-width="300px" width="300px" align="right" alt="DataBase" /> 
-
 
 <!-- apresentação -->
 Sou formado em **_Análise e Desenvolvimento de Sistema_** e Pós Graduado em **_Banco de Dados_**<br>
 Com experiencia como **_DBA_**, **_Supervisor de Equipe de Suporte_**, **_Tecnico de Suporte de Campo e Remoto_**<br>
 Hoje busco uma transição de carreira para a __Engenharia de Dados__ <br>
-<br>
+<br> 
+<!-- logos DB grande -->
+<img src="https://github.com/user-attachments/assets/3058469f-4ab6-4d30-ab21-3a76a83814f9" min-width="3000px" max-width="3000px" width="300px" align="right" alt="DataBase" />
+
 **Hoje atuo como Database Administrator SQL Server**
 - SQL Server
 - Oracle Jr
