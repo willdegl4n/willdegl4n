@@ -6,7 +6,7 @@ Com experiencia como **_DBA_**, **_Supervisor de Equipe de Suporte_**, **_Tecnic
 Hoje busco uma transição de carreira para a __Engenharia de Dados__ <br>
 <br> 
 <!-- logos DB grande -->
-<img src="https://github.com/user-attachments/assets/3058469f-4ab6-4d30-ab21-3a76a83814f9" width="400px" align="right" alt="DataBase" />
+<img src="https://github.com/user-attachments/assets/54b21bf4-d48e-4c0d-8d84-834f99a96e3d" width="400px" align="right" alt="DataBase" />
 
 **Hoje atuo como Database Administrator SQL Server**
 - SQL Server
