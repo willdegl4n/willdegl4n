@@ -42,11 +42,11 @@
 </picture>
   <img src="https://camo.githubusercontent.com/380ee34ee0c24d688efe9a0ba62cdb25b1981075c84f98627765f2fd75d8be3a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617061636865737061726b2f617061636865737061726b2d6f726967696e616c2d776f72646d61726b2e737667" height="55" alt="Spark"  />
 </div>
-
-
-
-
   <!-- ICONES DAS TECNOLOGIAS -->
+
+
+
+  <!-- ICONES DAS TECNOLOGIAS - ->
 ## Minhas Tech Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"                  height="55" alt="windows8 logo"  />
@@ -61,6 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"                        height="55" alt="putty logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"      height="55" alt="putty logo" />
 </div>
+  <!- - ICONES DAS TECNOLOGIAS -->
 
 <!-- Social midias -->
 ## Minhas Social Mídias
