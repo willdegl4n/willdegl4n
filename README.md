@@ -27,6 +27,10 @@
 | DP-900 | Microsoft Azure Data Fundamentals | Microsoft |
 | 1Z0-1085-23 | Oracle Cloud Infrastructure 2023 Foundations Associate | Oracle Cloud |
 | MD-101 | Explore modern management | Microsoft |
+||Generative AI Fundamentals| Databricks |
+||Databricks Fundamentals|  Databricks |
+|SFPC|Scrum Foundation Professional Certification|Certiprof|
+
 
 
 
