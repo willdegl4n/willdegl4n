@@ -3,7 +3,7 @@
 <!-- apresentação -->
 #### Sou formado em _Análise e Desenvolvimento de Sistema_ e Pós Graduado em _Banco de Dados,_ com <br> experiencia como _DBA_, _Supervisor de Equipe de Suporte_, _Tecnico de Suporte de Campo e Remoto_ <br> Hoje busco uma transição de carreira para a __Engenharia de Dados__ <br> <br> 
 <!-- logos DB grande -->
-<img src="https://github.com/user-attachments/assets/a0075332-1c3f-4902-acc7-d91d11e243cf" width="400px" align="right" alt="DataBase" />
+<img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" width="400px" align="right" alt="DataBase" />
 
 **Hoje atuo como Database Administrator SQL Server**
 - SQL Server
