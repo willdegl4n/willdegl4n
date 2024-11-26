@@ -5,20 +5,25 @@
 <!-- logos DB grande -->
 <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" width="400px" align="right" alt="DataBase" />
 
-**Hoje atuo como Database Administrator SQL Server**
-- SQL Server
-- Oracle Jr
-- PostgreSql Training 
-  
-**Sou aspirante a Data Engineering estudando as skill:**
-- Python
-- Git e GitHub
-- Excel Avançado 
-- PowerBI
-- SSIS ETL
-- Databrinck
-- MongoDB
-- BigQuery
+**Relational Database Administrator:**
+|Database|Level|
+|----|----|
+| *SQL Server*|      █████████░░░    |
+| *Oracle*|          ███████░░░░░    |
+| *PostgreSql*|      ████░░░░░░░░    | 
+| *MySQL / MariaDB*| ██░░░░░░░░░░    |
+
+**Skills em formação:**
+|Materia| Status|
+|----|----|
+|Python e Spark         | in progress |
+|Git e GitHub           | in progress |
+|Excel                  | in progress |
+|PowerBI                | in progress |
+|ETL e ELT              | in progress |
+|Databrinck e BigQuery  | in progress |
+|MongoDB                | in progress |
+
 
 **Possuo algumas certificações, entre elas:**
 | CÓDIGO | DESCRIÇÃO | PROVEDOR |
@@ -27,8 +32,8 @@
 | DP-900 | Microsoft Azure Data Fundamentals | Microsoft |
 | 1Z0-1085-23 | Oracle Cloud Infrastructure 2023 Foundations Associate | Oracle Cloud |
 | MD-101 | Explore modern management | Microsoft |
-||Generative AI Fundamentals| Databricks |
-||Databricks Fundamentals|  Databricks |
+| - - - |Generative AI Fundamentals| Databricks |
+| - - - |Databricks Fundamentals|  Databricks |
 |SFPC|Scrum Foundation Professional Certification|Certiprof|
 
 
