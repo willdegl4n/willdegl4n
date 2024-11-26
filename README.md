@@ -33,6 +33,22 @@
   <!-- ICONES DAS TECNOLOGIAS -->
 ## Minhas Tech Skills
 <div align="left">
+  <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="55" alt="Database"  />
+    <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="55" alt="Python"  />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/58dd795f220f3d2190525b386b4e8c2fb3a8c9ca4989374e37cafca704c4e6aa/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f6d61726b5f77686974652e737667" height="55" alt="Pandas"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="55" alt="Pandas"/>
+    </picture>
+    <img src="https://camo.githubusercontent.com/58dd795f220f3d2190525b386b4e8c2fb3a8c9ca4989374e37cafca704c4e6aa/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f6d61726b5f77686974652e737667" height="55" alt="Pandas"  />
+    <img src="https://camo.githubusercontent.com/380ee34ee0c24d688efe9a0ba62cdb25b1981075c84f98627765f2fd75d8be3a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617061636865737061726b2f617061636865737061726b2d6f726967696e616c2d776f72646d61726b2e737667" height="55" alt="Spark"  />
+</div>
+
+
+
+
+  <!-- ICONES DAS TECNOLOGIAS -->
+## Minhas Tech Skills
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"                  height="55" alt="windows8 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="microsoftsqlserver logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"                      height="55" alt="vscode logo"  />
