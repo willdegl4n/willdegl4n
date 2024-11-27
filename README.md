@@ -1,31 +1,42 @@
 # Helow people!👋 Willdeglan aqui...
+<!-- logo SQLDICAS inicio-->
+<img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" width="400px" align="right" alt="DataBase" />
+<!-- logo SQLDICAS fim-->
 
 <!-- apresentação -->
-#### Sou formado em _Análise e Desenvolvimento de Sistema_ e Pós Graduado em _Banco de Dados,_ com <br> experiencia como _DBA_, _Supervisor de Equipe de Suporte_, _Tecnico de Suporte de Campo e Remoto_ <br> Hoje busco uma transição de carreira para a __Engenharia de Dados__ <br> <br> 
-<!-- logos DB grande -->
-<img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" width="400px" align="right" alt="DataBase" />
+**Formado** em _Análise e Desenvolvimento de Sistema_ <br>
+**Pós-Graduado** em _Banco de Dados_  <br> 
+**Experiencia** como: 
+- _Administrador de Banco de Dados_
+- _Supervisor de Equipe de Suporte_
+- _Tecnico de Suporte de Campo e Remoto_
+
+### >>>> __Engenheiro de Dados__ em formação <<<< <br> <br> 
+
+
 
 **Relational Database Administrator:**
-|Database|Level|
-|----|----|
-| *SQL Server*|      █████████░░░    |
-| *Oracle*|          ███████░░░░░    |
-| *PostgreSql*|      ████░░░░░░░░    | 
-| *MySQL / MariaDB*| ██░░░░░░░░░░    |
+-
+█████████████░░░    *SQL Server* <br>
+██████████░░░░░░    *Oracle* <br>
+████████░░░░░░░░     *PostgreSql*  <br>
+█████░░░░░░░░░░░     *MySQL / MariaDB* <br>
+
+<br> 
 
 **Skills em formação:**
-|Materia| Status|
-|----|----|
-|Python e Spark         | in progress |
-|Git e GitHub           | in progress |
-|Excel                  | in progress |
-|PowerBI                | in progress |
-|ETL e ELT              | in progress |
-|Databrinck e BigQuery  | in progress |
-|MongoDB                | in progress |
+-
+- Python, Spark e Pandas
+- Git e GitHub
+- Excel
+- ETL e ELT
+- Databrinck, Data Fabrick e BigQuery
+- MongoDB
 
+<br> 
 
-**Possuo algumas certificações, entre elas:**
+**Certificações mais relevantes:**
+-
 | CÓDIGO | DESCRIÇÃO | PROVEDOR |
 |--------|-----------|-----------|
 | 98-364 |  MTA Database Fundamentals 98-364 | Microsoft |
@@ -38,9 +49,9 @@
 
 
 
-
+<br> <br> 
   <!-- ICONES DAS TECNOLOGIAS -->
-## Minhas Tech Skills
+## Tech Skills
 <div align="left">
   <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" height="55" alt="SQLDicas"  />
   <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="55" alt="Database"  />
@@ -72,8 +83,9 @@
 </div>
   <!- - ICONES DAS TECNOLOGIAS -->
 
+<br> <br> 
 <!-- Social midias -->
-## Minhas Social Mídias
+## Social Mídias
 <div align="left">
   <a href="https://www.youtube.com/@sqldicas" target="_blank">         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"                                         height="27"></a>
   <a href="https://instagram.com/willdeglan" target="_blank">          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"                                 height="27"></a>
