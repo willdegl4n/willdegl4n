@@ -67,7 +67,7 @@
   <!-- SPARK claro e escuro-->
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoBranco.png" height="55"">
-  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.svg" height="55">
+  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="55">
 </picture>
 <!--
   <img src="https://camo.githubusercontent.com/380ee34ee0c24d688efe9a0ba62cdb25b1981075c84f98627765f2fd75d8be3a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617061636865737061726b2f617061636865737061726b2d6f726967696e616c2d776f72646d61726b2e737667" height="55" alt="Spark"  />
