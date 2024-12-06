@@ -27,10 +27,10 @@
 **Skills em formação:**
 -
 - Python, Spark e Pandas
-- Git e GitHub
+- GitHub
 - Excel
 - ETL e ELT
-- Databrinck, Data Fabrick e BigQuery
+- Databrinck, Fabrick e BigQuery
 - MongoDB
 
 <br> 
