@@ -63,8 +63,8 @@
     <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="55" alt="Python"  />
 <!-- PANDAS claro e escuro -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/58dd795f220f3d2190525b386b4e8c2fb3a8c9ca4989374e37cafca704c4e6aa/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461735f6d61726b5f77686974652e737667" height="55"">
-  <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="55">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoPreto.png" height="55"">
+  <img alt="Pandas" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoBranco.png" height="55">
 </picture>
   <!-- SPARK claro e escuro-->
    <picture>
