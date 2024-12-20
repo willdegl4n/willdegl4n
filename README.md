@@ -6,13 +6,11 @@
 <!-- apresentação -->
 **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
 **Pós-Graduado** em _Banco de Dados_  <br> 
+### >>>> __Engenheiro de Dados__ em formação <<<< <br> <br> 
 **Experiencia** como: 
 - _Administrador de Banco de Dados_
 - _Supervisor de Equipe de Suporte_
 - _Tecnico de Suporte de Campo e Remoto_
-
-### >>>> __Engenheiro de Dados__ em formação <<<< <br> <br> 
-
 
 
 **Relational Database Administrator:**
