@@ -16,8 +16,21 @@ Administrador de Banco de Dados SQL Server <br>
 
 <br> 
 
-**Skills em formação:**
-| | | | |
+Skills em formação:
+
+ █████████████░░░ - SQL                .          
+ ██████████░░░░░░ - Python             .   
+ ███████░░░░░░░░░ - Spark e Pandas     .   
+ ████████░░░░░░░░ - GitHub             .   
+ █████████████░░░ - Excel              .            
+ █████████████░░░ - ETL e ELT          .   
+ ████████░░░░░░░░ - Databrinck         .   
+ ███░░░░░░░░░░░░░ -  Fabrick           .   
+ █████░░░░░░░░░░░ - BigQuery           .   
+ █████░░░░░░░░░░░ - MongoDB            .   
+
+
+|  | | | |
 |--------|-----------|-----------|-----------|
 | █████████████░░░| - SQL           | ██████████░░░░░░| - Python |
 | ███████░░░░░░░░░| - Spark e Pandas| ████████░░░░░░░░| - GitHub |
