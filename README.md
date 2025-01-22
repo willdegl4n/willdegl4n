@@ -4,13 +4,16 @@
 <!-- logo SQLDICAS fim-->
 
 <!-- apresentação -->
+www.WILLDEGLAN.com.br <br> <br>
 **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
 **Pós-Graduado** em _Banco de Dados_  <br> 
 Administrador de Banco de Dados SQL Server <br>
-www.WILLDEGLAN.com.br
+
 ### >>>> **__Engenheiro de Dados__** em formação <<<< <br> 
 
-**Experiencia** como: 
+<br>
+
+**Experiencia como:**
 - _Administrador de Banco de Dados_
 - _Supervisor de Equipe de Suporte_
 - _Tecnico de Suporte de Campo e Remoto_
