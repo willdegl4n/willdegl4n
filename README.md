@@ -6,32 +6,28 @@
 <!-- apresentação -->
 **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
 **Pós-Graduado** em _Banco de Dados_  <br> 
-### >>>> __Engenheiro de Dados__ em formação <<<< <br> <br> 
+Administrador de Banco de Dados SQL Server <br>
+### >>>> __Engenheiro de Dados__ em formação <<<< <br> 
+
 **Experiencia** como: 
 - _Administrador de Banco de Dados_
 - _Supervisor de Equipe de Suporte_
 - _Tecnico de Suporte de Campo e Remoto_
 
-
-**Relational Database Administrator:**
--
-█████████████░░░    *SQL Server* <br>
-██████████░░░░░░    *Oracle* <br>
-████████░░░░░░░░     *PostgreSql*  <br>
-█████░░░░░░░░░░░     *MySQL / MariaDB* <br>
-
 <br> 
 
 **Skills em formação:**
--
-- Python, Spark e Pandas
-- GitHub
-- Excel
-- ETL e ELT
-- Databrinck, Fabrick e BigQuery
-- MongoDB
+| | | | |
+|--------|-----------|-----------|-----------|
+| █████████████░░░| - SQL           | ██████████░░░░░░| - Python |
+| ███████░░░░░░░░░| - Spark e Pandas| ████████░░░░░░░░| - GitHub |
+| █████████████░░░| - Excel         | █████████████░░░| - ETL e ELT |
+| ████████░░░░░░░░| - Databrinck    | ███░░░░░░░░░░░░░| -  Fabrick |
+| █████░░░░░░░░░░░| - BigQuery      | █████░░░░░░░░░░░| - MongoDB |
 
 <br> 
+
+
 
 **Certificações mais relevantes:**
 -
@@ -41,10 +37,27 @@
 | DP-900 | Microsoft Azure Data Fundamentals | Microsoft |
 | 1Z0-1085-23 | Oracle Cloud Infrastructure 2023 Foundations Associate | Oracle Cloud |
 | MD-101 | Explore modern management | Microsoft |
-| - - - |Generative AI Fundamentals| Databricks |
 | - - - |Databricks Fundamentals|  Databricks |
+| - - - |Generative AI Fundamentals| Databricks |
 |SFPC|Scrum Foundation Professional Certification|Certiprof|
 
+ <!-- ICONES DAS Certificações -->
+
+<p>
+  <a href='#'> <img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/MTADatabaseFundamentals2019.png"></a>
+&nbsp;&nbsp;
+  <a href='#'> <img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/dp900.png"></a>
+&nbsp;&nbsp;
+  <a href='#'> <img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/OCIF2023CA.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/MD101.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="96" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksFundamentals.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksFundamentals_AI.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/ScrumFoundation2024.png"></a>
+</p>
 
 
 <br> <br> 
@@ -52,29 +65,25 @@
 ## Tech Skills
   <!-- SQL DICAS -->
 <div align="left">
-  <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" height="55" alt="SQLDicas">
+  <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" height="60" alt="SQLDicas"> &nbsp;&nbsp;&nbsp;
   <!-- BANCO DE DADOS -->
-  <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="55" alt="Database">
+  <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="55" alt="Database"> &nbsp;&nbsp;&nbsp;
     <!-- DATABRICKS -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/Databricks.png" height="55" alt="databricks">
+  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/Databricks.png" height="55" alt="databricks"> &nbsp;&nbsp;&nbsp;
     <!-- PYTHON -->
-    <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="55" alt="Python"  />
+    <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="55" alt="Python"  /> &nbsp;&nbsp;&nbsp;
 <!-- PANDAS claro e escuro -->
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoPreto.png" height="55"">
-  <img alt="Pandas" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoBranco.png" height="55">
+  <img alt="Pandas" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoBranco.png" height="55"> &nbsp;&nbsp;&nbsp;
 </picture>
   <!-- SPARK claro e escuro-->
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoBranco.png" height="55"">
-  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="50">
+  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="50"> &nbsp;&nbsp;&nbsp;
 </picture>
-<!--
-  <img src="https://camo.githubusercontent.com/380ee34ee0c24d688efe9a0ba62cdb25b1981075c84f98627765f2fd75d8be3a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617061636865737061726b2f617061636865737061726b2d6f726967696e616c2d776f72646d61726b2e737667" height="55" alt="Spark"  />
-</div> 
-  -->
   
-  <!-- ICONES DAS TECNOLOGIAS -->
+  <!-- ICONES DAS certificações  -->
 
 
 
@@ -99,10 +108,10 @@
 <!-- Social midias -->
 ## Social Mídias
 <div align="left">
-  <a href="https://www.youtube.com/@sqldicas" target="_blank">         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"                                         height="27"></a>
-  <a href="https://instagram.com/willdeglan" target="_blank">          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"                                 height="27"></a>
-  <a href = "mailto:willdeglan@gmail.com">                             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                                            height="27"></a>
-  <a href="https://www.linkedin.com/in/willdeglan" target="_blank">    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"                                   height="27"></a> 
-  <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>
-  <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a>
+  <a href="https://www.youtube.com/@sqldicas" target="_blank">         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"                                         height="27"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/willdeglan" target="_blank">          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"                                 height="27"></a> &nbsp;&nbsp;&nbsp;
+  <a href = "mailto:willdeglan@gmail.com">                             <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                                            height="27"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/willdeglan" target="_blank">    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"                                   height="27"></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
 </div>
