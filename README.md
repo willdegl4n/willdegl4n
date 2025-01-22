@@ -1,10 +1,10 @@
 # Helow!👋 Willdeglan aqui...
+www.WILLDEGLAN.com.br 
 <!-- logo SQLDICAS inicio-->
 <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" width="400px" align="right" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
 <!-- apresentação -->
-www.WILLDEGLAN.com.br <br> <br>
 **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
 **Pós-Graduado** em _Banco de Dados_  <br> 
 Administrador de Banco de Dados SQL Server <br>
