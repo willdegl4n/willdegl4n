@@ -52,7 +52,7 @@
 ## Tech Skills
   <!-- SQL DICAS -->
 <div align="left">
-  <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" height="55" alt="SQLDicas">
+  <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" height="55" alt="SQLDicas">
   <!-- BANCO DE DADOS -->
   <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="55" alt="Database">
     <!-- DATABRICKS -->
