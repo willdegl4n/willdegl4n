@@ -7,7 +7,8 @@
 **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
 **Pós-Graduado** em _Banco de Dados_  <br> 
 Administrador de Banco de Dados SQL Server <br>
-### >>>> __Engenheiro de Dados__ em formação <<<< <br> 
+www.WILLDEGLAN.com.br
+### >>>> **__Engenheiro de Dados__** em formação <<<< <br> 
 
 **Experiencia** como: 
 - _Administrador de Banco de Dados_
@@ -16,27 +17,18 @@ Administrador de Banco de Dados SQL Server <br>
 
 <br> 
 
-Skills em formação:
-
- █████████████░░░ - SQL                .          
- ██████████░░░░░░ - Python             .   
- ███████░░░░░░░░░ - Spark e Pandas     .   
- ████████░░░░░░░░ - GitHub             .   
- █████████████░░░ - Excel              .            
- █████████████░░░ - ETL e ELT          .   
- ████████░░░░░░░░ - Databrinck         .   
- ███░░░░░░░░░░░░░ -  Fabrick           .   
- █████░░░░░░░░░░░ - BigQuery           .   
- █████░░░░░░░░░░░ - MongoDB            .   
-
-
-|  | | | |
-|--------|-----------|-----------|-----------|
-| █████████████░░░| - SQL           | ██████████░░░░░░| - Python |
-| ███████░░░░░░░░░| - Spark e Pandas| ████████░░░░░░░░| - GitHub |
-| █████████████░░░| - Excel         | █████████████░░░| - ETL e ELT |
-| ████████░░░░░░░░| - Databrinck    | ███░░░░░░░░░░░░░| -  Fabrick |
-| █████░░░░░░░░░░░| - BigQuery      | █████░░░░░░░░░░░| - MongoDB |
+**Skills em formação:**
+-
+ █████████████░░░ - SQL  
+ ██████████░░░░░░ - Python  
+ ███████░░░░░░░░░ - Spark e Pandas  
+ ████████░░░░░░░░ - GitHub  
+ █████████████░░░ - Excel  
+ █████████████░░░ - ETL e ELT  
+ ████████░░░░░░░░ - Databrinck  
+ ███░░░░░░░░░░░░░ -  Fabrick  
+ █████░░░░░░░░░░░ - BigQuery  
+ █████░░░░░░░░░░░ - MongoDB  
 
 <br> 
 
