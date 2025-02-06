@@ -33,9 +33,21 @@ Administrador de Banco de Dados SQL Server <br>
  █████░░░░░░░░░░░ - BigQuery  
  █████░░░░░░░░░░░ - MongoDB  
 
-<br> 
+<div align="left"> 
+  <!-- Engenharia de dados DIO -->
+ <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/dioEngenhariaDeDados.png" height="60" alt="DataEngineer"> &nbsp;&nbsp;&nbsp;
+ <!-- Desenvolvedor Python DIO -->
+  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/dioPythonDeveloper.png" height="60" alt="PythonDeveloper"> &nbsp;&nbsp;&nbsp;
+ <!-- Infinity BigData -->
+  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/InfinityBigData.png" height="50" alt="InfinityBigData"> &nbsp;&nbsp;&nbsp;
+ <!-- DatasLightAcademyBranco -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/DatasLightAcademyBranco.png" height="45"">
+    <img alt="Pandas" src="#" height="55"> &nbsp;&nbsp;&nbsp; 
+  </picture>
 
-
+ <br> <br> 
+</div>
 
 **Certificações mais relevantes:**
 -
@@ -90,10 +102,7 @@ Administrador de Banco de Dados SQL Server <br>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoBranco.png" height="55"">
   <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="50"> &nbsp;&nbsp;&nbsp;
 </picture>
-  
-  <!-- ICONES DAS certificações  -->
-
-
+</div>  
 
   <!-- ICONES DAS TECNOLOGIAS - ->
 ## Minhas Tech Skills
