@@ -27,7 +27,7 @@ Administrador de Banco de Dados SQL Server <br>
  ███████░░░░░░░░░ - Spark e Pandas  
  ████████░░░░░░░░ - GitHub  
  █████████████░░░ - Excel  
- █████████████░░░ - ETL e ELT  
+ ███████████░░░░░ - ETL e ELT  
  ████████░░░░░░░░ - Databrinck  
  ███░░░░░░░░░░░░░ -  Fabrick  
  █████░░░░░░░░░░░ - BigQuery  
