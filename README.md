@@ -31,7 +31,7 @@ Administrador de Banco de Dados SQL Server <br>
  ████████░░░░░░░░ - Databrinck  
  ███░░░░░░░░░░░░░ -  Fabrick  
  █████░░░░░░░░░░░ - BigQuery  
- █████░░░░░░░░░░░ - MongoDB  
+ ██░░░░░░░░░░░░░░ - MongoDB  
 
 <div align="left"> 
   <!-- Engenharia de dados DIO -->
