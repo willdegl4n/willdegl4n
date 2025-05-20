@@ -9,7 +9,7 @@ www.WILLDEGLAN.com.br
 **Pós-Graduado** em _Banco de Dados_  <br> 
 Administrador de Banco de Dados SQL Server <br>
 
-### >>>> **__Engenheiro de Dados__** em formação <<<< <br> 
+### >>>> `__Engenheiro de Dados__` em formação <<<< <br> 
 
 <br>
 
@@ -24,12 +24,14 @@ Administrador de Banco de Dados SQL Server <br>
 -
  █████████████░░░ - SQL  
  ██████████░░░░░░ - Python  
- ███████░░░░░░░░░ - Spark e Pandas  
+ ███████░░░░░░░░░ - Pandas 
+ ███████░░░░░░░░░ - Spark
  ████████░░░░░░░░ - GitHub  
+ ██████████░░░░░░ - Docker 
  █████████████░░░ - Excel  
  ███████████░░░░░ - ETL e ELT  
  ████████░░░░░░░░ - Databrinck  
- ███░░░░░░░░░░░░░ -  Fabrick  
+ ███░░░░░░░░░░░░░ - Fabrick  
  █████░░░░░░░░░░░ - BigQuery  
  ██░░░░░░░░░░░░░░ - MongoDB  
 
