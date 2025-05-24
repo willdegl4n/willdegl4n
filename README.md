@@ -45,9 +45,13 @@ Administrador de Banco de Dados SQL Server <br>
  <!-- DatasLightAcademyBranco -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/DatasLightAcademyBranco.png" height="45"">
-    <img alt="Pandas" src="#" height="55"> &nbsp;&nbsp;&nbsp; 
+    <img alt="DatasLightAcademy" src="#" height="55"> &nbsp;&nbsp;&nbsp; 
   </picture>
-
+ <!-- EngenhariadedadosAcademy -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/EngenhariaDeDadosAcademyBranco.png" height="45"">
+    <img alt="EngenhariadedadosAcademy" src="#" height="55"> &nbsp;&nbsp;&nbsp; 
+  </picture>
  <br> <br> 
 </div>
 
