@@ -7,6 +7,7 @@ www.WILLDEGLAN.com.br
 <!-- apresentação -->
 **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
 **Pós-Graduado** em _Banco de Dados_  <br> 
+**Especializando** em _Spark & Databricks_ (em andamento) <br>
 Administrador de Banco de Dados SQL Server <br>
 
 ### >>>> `Engenheiro de Dados` em formação <<<< <br> 
