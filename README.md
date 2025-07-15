@@ -1,8 +1,9 @@
 # Helow!👋 Willdeglan aqui...
-www.WILLDEGLAN.com.br 
 <!-- logo SQLDICAS inicio-->
 <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" width="400px" align="right" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
+
+www.WILLDEGLAN.com.br 
 
 <!-- apresentação -->
 **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
@@ -46,12 +47,12 @@ Administrador de Banco de Dados SQL Server <br>
  <!-- DatasLightAcademyBranco -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/DatasLightAcademyBranco.png" height="45"">
-    <img alt="DatasLightAcademy" src="#" height="55"> &nbsp;&nbsp;&nbsp; 
+    <img alt="DatasLightAcademy" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/DatasLightAcademyPreto.png" height="55"> &nbsp;&nbsp;&nbsp; 
   </picture>
  <!-- EngenhariadedadosAcademy -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/EngenhariaDeDadosAcademyBranco.png" height="45"">
-    <img alt="EngenhariadedadosAcademy" src="#" height="55"> &nbsp;&nbsp;&nbsp; 
+    <img alt="EngenhariadedadosAcademy" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/EngenhariaDeDadosAcademyPreto.png" height="55"> &nbsp;&nbsp;&nbsp; 
   </picture>
  <br> <br> 
 </div>
