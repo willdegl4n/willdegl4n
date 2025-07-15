@@ -3,15 +3,16 @@
 <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" width="400px" align="right" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
+### >> `Engenheiro de Dados` em formação << <br> 
+
 www.WILLDEGLAN.com.br 
 
 <!-- apresentação -->
-**Formado** em _Análise e Desenvolvimento de Sistema_ <br>
-**Pós-Graduado** em _Banco de Dados_  <br> 
-**Especializando** em _Spark & Databricks_ (em andamento) <br>
-Atualmente Sou Administrador de Banco de Dados SQL Server <br>
+✔ **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
+✔ **Pós-Graduado** em _Banco de Dados_  <br> 
+💥 **Especializando** em _Spark & Databricks_ (em andamento) <br>
 
-### >>>> `Engenheiro de Dados` em formação <<<< <br> 
+💠 Atualmente Sou Administrador de Banco de Dados SQL Server <br>
 
 <br>
 
