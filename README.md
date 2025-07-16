@@ -33,7 +33,7 @@ www.WILLDEGLAN.com.br
  ██████████░░░░░░ - Docker   <br>
  █████████████░░░ - Excel    <br>
  ███████████░░░░░ - ETL e ELT    <br>
- ████████░░░░░░░░ - Databrinck    <br>
+ ████████░░░░░░░░ - databricks    <br>
  ███░░░░░░░░░░░░░ - Fabrick    <br>
  █████░░░░░░░░░░░ - BigQuery    <br>
  ██░░░░░░░░░░░░░░ - MongoDB    <br>
