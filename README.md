@@ -10,7 +10,8 @@ www.WILLDEGLAN.com.br
 <!-- apresentação -->
 ✔ **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
 ✔ **Pós-Graduado** em _Banco de Dados_  <br> 
-💥 **Especializando** em _Spark & Databricks_ (em andamento) <br>
+💥 **Especializando** em _Spark & Databricks_ ([em andamento](https://engenhariadedadosacademy.curseduca.pro/m/courses)) <br>
+💥 **Especializando** em _Engenharia de Dados_ ([em andamento](https://meuscursos.infinitybigdata.com/m/courses)) <br>
 
 💠 Atualmente Sou Administrador de Banco de Dados SQL Server <br>
 
@@ -112,6 +113,8 @@ www.WILLDEGLAN.com.br
   <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="50"> &nbsp;&nbsp;&nbsp;
 </picture>
 </div>  
+<!-- DOCKER -->
+  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="55" alt="docker"> &nbsp;&nbsp;&nbsp;
 
   <!-- ICONES DAS TECNOLOGIAS - ->
 ## Minhas Tech Skills
