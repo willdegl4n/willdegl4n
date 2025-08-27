@@ -112,9 +112,10 @@ www.WILLDEGLAN.com.br
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoBranco.png" height="55"">
   <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="50"> &nbsp;&nbsp;&nbsp;
 </picture>
-</div>  
 <!-- DOCKER -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="55" alt="docker"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="65" alt="docker"> &nbsp;&nbsp;&nbsp;
+</div>  
+
 
   <!-- ICONES DAS TECNOLOGIAS - ->
 ## Minhas Tech Skills
