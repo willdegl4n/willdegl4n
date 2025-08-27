@@ -27,15 +27,15 @@ www.WILLDEGLAN.com.br
 -
  █████████████░░░ - SQL     <br>
  ██████████░░░░░░ - Python    <br>
- ███████░░░░░░░░░ - Pandas   <br>
- ███████░░░░░░░░░ - Spark  <br>
+ █████████░░░░░░░ - Pandas   <br>
+ █████████░░░░░░░ - Spark  <br>
  ██████████░░░░░░ - GitHub    <br>
  ██████████░░░░░░ - Docker   <br>
  █████████████░░░ - Excel    <br>
  ███████████░░░░░ - ETL e ELT    <br>
- ████████░░░░░░░░ - Databricks    <br>
+ ███████████░░░░░ - Databricks    <br>
  ███░░░░░░░░░░░░░ - Fabrick    <br>
- █████░░░░░░░░░░░ - BigQuery    <br>
+ ████████░░░░░░░░ - BigQuery    <br>
  ██░░░░░░░░░░░░░░ - MongoDB    <br>
 
 <div align="left"> 
