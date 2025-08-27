@@ -3,7 +3,7 @@
 <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" width="400px" align="right" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
-### >> `Engenheiro de Dados` em formação << <br> 
+### >> `Aprirante a Engenheiro de Dados` << <br> 
 
 www.WILLDEGLAN.com.br 
 
@@ -14,7 +14,7 @@ www.WILLDEGLAN.com.br
 💥 **Especializando** em _Spark & Databricks_  ([em andamento](https://engenhariadedadosacademy.curseduca.pro/m/courses)) <br>
 💥 **Especializando** em _Engenharia de Dados_ ([em andamento](https://infinitybigdata.com/)) <br>
 
-💠 Atualmente Sou Administrador de Banco de Dados SQL Server <br>
+💠 Confira meu repositorio de **[projetos](https://github.com/willdegl4n/Projetos)**! <br>
 
 <br>
 
