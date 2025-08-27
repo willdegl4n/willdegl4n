@@ -11,7 +11,7 @@ www.WILLDEGLAN.com.br
 ✔ **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
 ✔ **Pós-Graduado** em _Banco de Dados_  <br> 
 💥 **Especializando** em _Spark & Databricks_ ([em andamento](https://engenhariadedadosacademy.curseduca.pro/m/courses)) <br>
-💥 **Especializando** em _Engenharia de Dados_ ([em andamento](https://meuscursos.infinitybigdata.com/m/courses)) <br>
+💥 **Especializando** em _Engenharia de Dados_ ([em andamento](https://meuscursos.infinitybigdata.com)) <br>
 
 💠 Atualmente Sou Administrador de Banco de Dados SQL Server <br>
 
