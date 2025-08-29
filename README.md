@@ -114,7 +114,7 @@ www.WILLDEGLAN.com.br
   <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="50"> &nbsp;&nbsp;&nbsp;
 </picture>
 <!-- DOCKER -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="60" alt="docker"> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="55" alt="docker"> &nbsp;&nbsp;&nbsp;
 </div>  
 
 
