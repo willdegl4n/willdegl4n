@@ -3,7 +3,7 @@
 <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" width="400px" align="right" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
-### >> `Aspirante a Engenheiro de Dados` << <br> 
+### >> `Engenheiro de Dados e DBA` << <br> 
 
 www.WILLDEGLAN.com.br 
 
