@@ -8,15 +8,16 @@
 www.WILLDEGLAN.com.br 
 
 <!-- apresentação -->
-✔ **Formado** em _Análise e Desenvolvimento de Sistema_([UNEB](#)) <br>
-✔ **Pós-Graduado** em _Banco de Dados_ ([Unyleya](https://unyleya.edu.br/pos-graduacao-ead/curso/banco-de-dados)) <br> 
-✔ **Trilha de Estudo** em _Databricks_  ([DatasLightAcademy](https://www.dataslightacademy.com.br/))<br> 
-💥 **Especializando** em _Spark & Databricks_  ([em andamento](https://engenhariadedadosacademy.curseduca.pro/m/courses)) <br>
-💥 **Especializando** em _Engenharia de Dados_ ([em andamento](https://infinitybigdata.com/)) <br>
+✔ **Formado** em _Análise e Desenvolvimento de Sistema ([UNEB](.))_ <br>
+✔ **Pós-Graduado** em _Banco de Dados ([Unyleya](https://unyleya.edu.br/pos-graduacao-ead/curso/banco-de-dados))_ <br> 
+✔ **Trilha de Estudo** em _Databricks ([DatasLightAcademy](https://www.dataslightacademy.com.br/))_ <br> 
+💥 **_Especializando_** em _Spark & Databricks  ([EngenhariaDeDadosAcademy](https://engenhariadedadosacademy.curseduca.pro/m/courses))_ <br>
+💥 **_Especializando_** em _Engenharia de Dados ([InfinityBigData](https://infinitybigdata.com/))_ <br>
+<br>
 
-
-### 💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! <br>
-
+### 💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! 
+Aqui armazeno os codigos, scripts e notebooks <br>
+<br>
 <!--
 **Experiencia como:**
 - _Administrador de Banco de Dados_
