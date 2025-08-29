@@ -1,6 +1,6 @@
 # Helow!👋 Willdeglan aqui...
 <!-- logo SQLDICAS inicio-->
-<img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" width="400px" align="right" alt="SQL Dicas" />
+<img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" width="400px" align="right" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
 ### >> `Engenheiro de Dados e DBA` << <br> 
@@ -8,22 +8,45 @@
 www.WILLDEGLAN.com.br 
 
 <!-- apresentação -->
-✔ **Formado** em _Análise e Desenvolvimento de Sistema_ <br>
-✔ **Pós-Graduado** em _Banco de Dados_  <br> 
+✔ **Formado** em _Análise e Desenvolvimento de Sistema_([UNEB](#)) <br>
+✔ **Pós-Graduado** em _Banco de Dados_ ([Unyleya](https://unyleya.edu.br/pos-graduacao-ead/curso/banco-de-dados)) <br> 
 ✔ **Trilha de Estudo** em _Databricks_  ([DatasLightAcademy](https://www.dataslightacademy.com.br/))<br> 
 💥 **Especializando** em _Spark & Databricks_  ([em andamento](https://engenhariadedadosacademy.curseduca.pro/m/courses)) <br>
 💥 **Especializando** em _Engenharia de Dados_ ([em andamento](https://infinitybigdata.com/)) <br>
 
-💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! <br>
+### 💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! <br>
 
-<br>
-
+<!--
 **Experiencia como:**
 - _Administrador de Banco de Dados_
 - _Supervisor de Equipe de Suporte_
 - _Tecnico de Suporte de Campo e Remoto_
+-->
 
-<br> 
+  <!-- ICONES DAS TECNOLOGIAS -->
+### Tech Skills
+  <!-- SQL DICAS -->
+<div align="left">
+  <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" height="60" alt="SQLDicas"> &nbsp;&nbsp;&nbsp;
+  <!-- BANCO DE DADOS -->
+  <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="55" alt="Database"> &nbsp;&nbsp;&nbsp;
+    <!-- DATABRICKS -->
+  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/Databricks.png" height="55" alt="databricks"> &nbsp;&nbsp;&nbsp;
+    <!-- PYTHON -->
+    <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="55" alt="Python"  /> &nbsp;&nbsp;&nbsp;
+<!-- PANDAS claro e escuro -->
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoPreto.png" height="55"">
+  <img alt="Pandas" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoBranco.png" height="55"> &nbsp;&nbsp;&nbsp;
+</picture>
+  <!-- SPARK claro e escuro-->
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoBranco.png" height="55"">
+  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="50"> &nbsp;&nbsp;&nbsp;
+</picture>
+<!-- DOCKER -->
+  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="55" alt="docker"> &nbsp;&nbsp;&nbsp;
+</div>  
 
 **Skills em formação:**
 -
@@ -92,30 +115,6 @@ www.WILLDEGLAN.com.br
 
 
 <br> <br> 
-  <!-- ICONES DAS TECNOLOGIAS -->
-## Tech Skills
-  <!-- SQL DICAS -->
-<div align="left">
-  <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas0.png" height="60" alt="SQLDicas"> &nbsp;&nbsp;&nbsp;
-  <!-- BANCO DE DADOS -->
-  <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="55" alt="Database"> &nbsp;&nbsp;&nbsp;
-    <!-- DATABRICKS -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/Databricks.png" height="55" alt="databricks"> &nbsp;&nbsp;&nbsp;
-    <!-- PYTHON -->
-    <img src="https://camo.githubusercontent.com/7654611cc0c150086ff9327653d5d31ba93e71411ca0d4b98b1e1918631d2b05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" height="55" alt="Python"  /> &nbsp;&nbsp;&nbsp;
-<!-- PANDAS claro e escuro -->
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoPreto.png" height="55"">
-  <img alt="Pandas" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/PandasLogoBranco.png" height="55"> &nbsp;&nbsp;&nbsp;
-</picture>
-  <!-- SPARK claro e escuro-->
-   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoBranco.png" height="55"">
-  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="50"> &nbsp;&nbsp;&nbsp;
-</picture>
-<!-- DOCKER -->
-  <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="55" alt="docker"> &nbsp;&nbsp;&nbsp;
-</div>  
 
 
   <!-- ICONES DAS TECNOLOGIAS - ->
