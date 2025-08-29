@@ -1,6 +1,6 @@
 # Helow!👋 Willdeglan aqui...
 <!-- logo SQLDICAS inicio-->
-<img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" width="400px" align="right" alt="SQL Dicas" />
+<img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png"  align="right" width="300px" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
 ### >> `Engenheiro de Dados e DBA` << <br> 
