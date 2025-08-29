@@ -14,6 +14,7 @@ www.WILLDEGLAN.com.br
 💥 **Especializando** em _Spark & Databricks_  ([em andamento](https://engenhariadedadosacademy.curseduca.pro/m/courses)) <br>
 💥 **Especializando** em _Engenharia de Dados_ ([em andamento](https://infinitybigdata.com/)) <br>
 
+
 ### 💠 Confira meu repositorio de **📂[Projetos](https://github.com/willdegl4n/Projetos)**! <br>
 
 <!--
@@ -42,7 +43,7 @@ www.WILLDEGLAN.com.br
   <!-- SPARK claro e escuro-->
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoBranco.png" height="46"">
-  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="41"> &nbsp;
+  <img alt="Spark" src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/apacheSparkLogoPreto.png" height="46"> &nbsp;
 </picture>
 <!-- DOCKER -->
   <img src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/docker.png" height="46" alt="docker"> &nbsp;
