@@ -8,7 +8,7 @@
 www.WILLDEGLAN.com.br 
 
 <!-- apresentação -->
-✔ **Formado** em _Análise e Desenvolvimento de Sistema ([UNEB](.))_ <br>
+✔ **Formado** em _Análise e Desenvolvimento de Sistema ([UNEB](https://www.educaedu-brasil.com/centros/uneb-uniao-educacional-de-brasilia-uni1394))_ <br>
 ✔ **Pós-Graduado** em _Banco de Dados ([Unyleya](https://unyleya.edu.br/pos-graduacao-ead/curso/banco-de-dados))_ <br> 
 ✔ **Trilha de Estudo** em _Databricks ([DatasLightAcademy](https://www.dataslightacademy.com.br/))_ <br> 
 💥 **_Especializando_** em _Spark & Databricks  ([EngenhariaDeDadosAcademy](https://engenhariadedadosacademy.curseduca.pro/m/courses))_ <br>
