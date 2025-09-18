@@ -87,32 +87,45 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 
 **Certificações mais relevantes:**
 -
-| CÓDIGO | DESCRIÇÃO | PROVEDOR |
-|--------|-----------|-----------|
-| 98-364 |  MTA Database Fundamentals 98-364 | Microsoft |
-| DP-900 | Microsoft Azure Data Fundamentals | Microsoft |
-| 1Z0-1085-23 | Oracle Cloud Infrastructure 2023 Foundations Associate | Oracle Cloud |
-| MD-101 | Explore modern management | Microsoft |
-| - - - |Databricks Fundamentals|  Databricks |
-| - - - |Generative AI Fundamentals| Databricks |
-|SFPC|Scrum Foundation Professional Certification|Certiprof|
+| CERTIFICADORA | DESCRIÇÃO | REFERÊNCIA |
+|---------------|-----------|--------|
+| Microsoft    | Explore modern management                 | MD-101 |
+| Microsoft    |  MTA Database Fundamentals                | 98-364 |
+| Microsoft    | Azure Data Fundamentals                   | DP-900 |
+| Oracle Cloud | Oracle Cloud Infrastructure 2023 Foundations Associate | 1Z0-1085-23 |
+| Certiprof    |Scrum Foundation Professional Certification| SFPC |
+| Databricks   |Databricks Fundamentals                    | 2024 |
+| Databricks   |Generative AI Fundamentals                 | 2024 |
+| Databricks   |Platform Architect GCP                     | 2025 |
+| Databricks   |Platform Architect AWS                     | 2025 |
+| Databricks   |Platform Architect Azure                   | 2025 |
+
 
  <!-- ICONES DAS Certificações -->
 
 <p>
-  <a href='#'> <img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/MTADatabaseFundamentals2019.png"></a>
-&nbsp;&nbsp;
-  <a href='#'> <img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/dp900.png"></a>
-&nbsp;&nbsp;
-  <a href='#'> <img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/OCIF2023CA.png"></a>
-&nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/MD101.png"></a>
-&nbsp;&nbsp;
+
   <a href='#'><img height="96" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksFundamentals.png"></a>
 &nbsp;&nbsp;
   <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksFundamentals_AI.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/ScrumFoundation2024.png"></a>
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksPlatformArchitectGCP.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksPlatformArchitectAWS.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksPlatformArchitectAzure.png"></a>
+  <br>
+
+  
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/MD101.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/MTADatabaseFundamentals2019.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/dp900.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/OCIF2023CA.png"></a>
+&nbsp;&nbsp;
+  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/ScrumFoundation2024.png"></a>  
 </p>
 
 
