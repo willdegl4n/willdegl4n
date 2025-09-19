@@ -1,6 +1,6 @@
 # Helow!👋 Willdeglan aqui...
 <!-- logo SQLDICAS inicio-->
-<img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png"  align="right" width="350px" alt="SQL Dicas" />
+<img src="/logos/sqlDicas.png"  align="right" width="350px" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
 ### >> `Engenheiro de Dados e DBA` << <br> 
@@ -29,7 +29,7 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 ### Tech Skills
   <!-- SQL DICAS -->
 <div align="left">
-  <img src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/sqlDicas.png" height="50" alt="SQLDicas"> &nbsp;
+  <img src="/logos/sqlDicas.png" height="50" alt="SQLDicas"> &nbsp;
   <!-- BANCO DE DADOS -->
   <img src="https://camo.githubusercontent.com/b6b54c683ae354567ba2d2b5fc240406b54590501eeddf9edd98d86d645de241/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f73716c646576656c6f7065722f73716c646576656c6f7065722d6f726967696e616c2e737667" height="46" alt="Database"> &nbsp;
     <!-- DATABRICKS -->
@@ -105,27 +105,27 @@ Aqui armazeno os codigos, scripts e notebooks <br>
 
 <p>
 
-  <a href='#'><img height="96" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksFundamentals.png"></a>
+  <a href='#'><img height="96" src="/logos/DatabricksFundamentals.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksFundamentals_AI.png"></a>
+  <a href='#'><img height="100" src="/logos/DatabricksFundamentals_AI.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksPlatformArchitectGCP.png"></a>
+  <a href='#'><img height="100" src="/logos/DatabricksPlatformArchitectGCP.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksPlatformArchitectAWS.png"></a>
+  <a href='#'><img height="100" src="/logos/DatabricksPlatformArchitectAWS.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/DatabricksPlatformArchitectAzure.png"></a>
+  <a href='#'><img height="100" src="/logos/DatabricksPlatformArchitectAzure.png"></a>
   <br>
 
   
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/MD101.png"></a>
+  <a href='#'><img height="100" src="/logos/MD101.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/MTADatabaseFundamentals2019.png"></a>
+  <a href='#'><img height="100" src="/logos/MTADatabaseFundamentals2019.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/dp900.png"></a>
+  <a href='#'><img height="100" src="/logos/dp900.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/OCIF2023CA.png"></a>
+  <a href='#'><img height="100" src="/logos/OCIF2023CA.png"></a>
 &nbsp;&nbsp;
-  <a href='#'><img height="100" src="https://github.com/willdegl4n/willdegl4n.github.io/blob/main/badge/ScrumFoundation2024.png"></a>  
+  <a href='#'><img height="100" src="/logos/ScrumFoundation2024.png"></a>  
 </p>
 
 
